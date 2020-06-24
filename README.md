@@ -59,7 +59,7 @@ Para esse desafio temos os seguintes testes:
 #### 1. Obter os arquivos
 
 ```bash
-$ git clone https://github.com/pauloabq/gostack-desafio-conceitos-reactjsnodejs
+$ git clone https://github.com/pauloabq/gostack-desafio-conceitos-reactjs
 
 ```
 #### 2. Instalar as dependências
@@ -74,8 +74,10 @@ ou
 ```bash
 $ npm install
 ```
+#### 3. Iniciar servidor back-end NodeJS
+Instruções no repositório: https://github.com/pauloabq/gostack-desafio-conceitos-nodejs
 
-#### 3. Iniciar o servidor
+#### 4. Iniciar o servidor
 
 ```bash
 $ yarn dev
@@ -106,7 +108,7 @@ Criado por <strong>Paulo Albuquerque</strong>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/pauloabq/gostack-desafio-conceitos-reactjsnodejs
+[license-shield]: https://img.shields.io/github/license/pauloabq/gostack-desafio-conceitos-reactjs
 [license-url]: https://github.com/pauloabq/gostack-desafio-conceitos-reactjsLICENSE
 
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=flat-square&logo=twitter&colorB=555
@@ -119,5 +121,5 @@ Criado por <strong>Paulo Albuquerque</strong>
 [linkedin-url]: https://linkedin.com/in/pauloabq
 
 
-[github-lang-shield]: https://img.shields.io/github/languages/count/pauloabq/gostack-desafio-conceitos-reactjsnodejs
+[github-lang-shield]: https://img.shields.io/github/languages/count/pauloabq/gostack-desafio-conceitos-reactjs
 [github-lang-url]: http://github.com/pauloabq
